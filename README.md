@@ -36,10 +36,11 @@ I believe in **user-centered design** and **continuous learning**. With every pr
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🎯 Professional Expertise
+![Technical Support Leadership](https://img.shields.io/badge/Technical%20Support-%230070C0.svg?style=for-the-badge&logo=support&logoColor=white)
 ![WordPress Development](https://img.shields.io/badge/WordPress%20Development-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Product Management](https://img.shields.io/badge/Product%20Management-%2333A0FF.svg?style=for-the-badge&logo=producthunt&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-%23FF9A00.svg?style=for-the-badge&logo=clickup&logoColor=white)
-![Technical Support Leadership](https://img.shields.io/badge/Technical%20Support-%230070C0.svg?style=for-the-badge&logo=support&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%230075FF.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
