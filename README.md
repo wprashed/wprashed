@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improving customer experiences through **innovative solutions**, **data-driven insights**, and **cutting-edge product development**. With a strong foundation in WordPress, WooCommerce, and product management, I continuously strive to create impactful tools that cater to user needs and streamline processes.
+Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improving customer experiences through **innovative solutions**, **data-driven insights**, and **cutting-edge product development**. With a strong foundation in **WordPress**, **Product Management**, **Project Management,** and **Data Analysis** I continuously strive to create impactful tools that cater to user needs and streamline processes.
 
 ---
 
