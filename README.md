@@ -54,10 +54,10 @@ Outside of work, I'm a photography enthusiast who loves capturing moments. I’m
 
 I'm always open to connecting with like-minded professionals and enthusiasts. Reach out through any of the channels below:
 
-- **[Website](https://rashed.im/)**
-- **[LinkedIn](https://www.linkedin.com/in/wprashed/)**
-- **[WordPress](https://profiles.wordpress.org/wprashed/)**
-- **[GitHub](https://github.com/wprashed)**
+- ![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white) [Website](https://rashed.im/)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white) [LinkedIn](https://www.linkedin.com/in/wprashed/)
+- ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) [WordPress](https://profiles.wordpress.org/wprashed/)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white) [GitHub](https://github.com/wprashed)
 
 ---
 
