@@ -1,16 +1,67 @@
 # Hi there, I'm Rashed Hossain 👋
 
-Lead, Tech Support at Droip, with a focus on WordPress theme and plugin development, product and project management.
+**Lead, Tech Support at Ollyo** | WordPress Expert | Product & Project Manager | Data Analyst
+
+---
+
+Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improving customer experiences through **innovative solutions**, **data-driven insights**, and **cutting-edge product development**. With a strong foundation in WordPress, WooCommerce, and product management, I continuously strive to create impactful tools that cater to user needs and streamline processes.
+
+---
 
 ## 🚀 About Me
-I'm a tech enthusiast who specializes in:
-- WordPress Plugin Development
-- Project Management (Jira)
-- Data Analysis and eCommerce Platforms
+
+With over 7 years of experience in the tech industry, I've honed my expertise across multiple domains:
+- **WordPress Development**: Plugin and theme customization, eCommerce solutions, LMS platforms.
+- **Project Management**: Planning and overseeing product roadmaps, using tools like Jira.
+- **Data Analysis**: Competitor analysis, user feedback integration, data-driven decision-making.
+- **Technical Support Leadership**: My experience managing tech support has enabled me to create efficient, user-centric support processes that build trust and satisfaction.
+
+Currently, I work as the **Lead of Tech Support at Droip**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS** **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, and customer feedback analysis, all aimed at delivering superior products.
+
+### Personal Approach & Philosophy
+I believe in **user-centered design** and **continuous learning**. With every product and project, my goal is to solve real-world problems while keeping the user experience at the forefront. Data analysis is a key part of my workflow, as it allows me to make informed decisions and ensure each feature meets users’ needs.
+
+---
+
+## 💼 Professional Skills
+
+### 🛠️ Technical Skills
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🎯 Professional Expertise
+![WordPress Development](https://img.shields.io/badge/WordPress%20Development-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Product Management](https://img.shields.io/badge/Product%20Management-%2333A0FF.svg?style=for-the-badge&logo=producthunt&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-%23FF9A00.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Technical Support Leadership](https://img.shields.io/badge/Technical%20Support-%230070C0.svg?style=for-the-badge&logo=support&logoColor=white)
+
+---
+
+## 🌍 Beyond Tech
+
+Outside of work, I'm a photography enthusiast who loves capturing moments. I’m also an avid traveler, always seeking new experiences and perspectives. My travel and photography interests inspire my creativity and problem-solving skills in the tech world.
+
+---
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/rashedhossain)
-- [Twitter](https://twitter.com/rashedhossain)
 
-<!-- Optional: GitHub Stats -->
-![Rashed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+I'm always open to connecting with like-minded professionals and enthusiasts. Reach out through any of the channels below:
+
+- **[Website](https://rashed.im/)**
+- **[LinkedIn]([https://linkedin.com/in/rashedhossain](https://www.linkedin.com/in/wprashed/))**
+- **[WordPress]([https://twitter.com/rashedhossain](https://profiles.wordpress.org/wprashed/))**
+- **[GitHub](https://github.com/wprashed)**
+
+---
+
+![Rashed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wprashed&show_icons=true&theme=dark)
+
+---
+
+Thank you for stopping by! Feel free to explore my repositories and don’t hesitate to reach out if you'd like to collaborate or chat about tech, product development, or photography.
