@@ -61,8 +61,4 @@ I'm always open to connecting with like-minded professionals and enthusiasts. Re
 
 ---
 
-![Rashed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wprashed&show_icons=true&theme=dark)
-
----
-
 Thank you for stopping by! Feel free to explore my repositories and don’t hesitate to reach out if you'd like to collaborate or chat about tech, product development, or photography.
