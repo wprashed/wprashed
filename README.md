@@ -55,8 +55,8 @@ Outside of work, I'm a photography enthusiast who loves capturing moments. I’m
 I'm always open to connecting with like-minded professionals and enthusiasts. Reach out through any of the channels below:
 
 - **[Website](https://rashed.im/)**
-- **[LinkedIn]([https://linkedin.com/in/rashedhossain](https://www.linkedin.com/in/wprashed/))**
-- **[WordPress]([https://twitter.com/rashedhossain](https://profiles.wordpress.org/wprashed/))**
+- **[LinkedIn](https://www.linkedin.com/in/wprashed/)**
+- **[WordPress](https://profiles.wordpress.org/wprashed/)**
 - **[GitHub](https://github.com/wprashed)**
 
 ---
