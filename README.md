@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improvi
 
 With over 7 years of experience in the tech industry, I've honed my expertise across multiple domains:
 - **WordPress Development**: Plugin and theme customization, eCommerce solutions, LMS platforms.
+- **Custom Solutions**: Developing enterprise-level web applications and QA testing to ensure optimal performance.
+- **Product Management**: Strategizing roadmaps, analyzing market needs, and ensuring user-focused product design and delivery.
 - **Project Management**: Planning and overseeing product roadmaps, using tools like Jira.
 - **Data Analysis**: Competitor analysis, user feedback integration, data-driven decision-making.
 - **Technical Support Leadership**: My experience managing tech support has enabled me to create efficient, user-centric support processes that build trust and satisfaction.
@@ -58,6 +60,7 @@ I'm always open to connecting with like-minded professionals and enthusiasts. Re
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+**[HackerRank](https://www.hackerrank.com/profile/rashedcse18)** ![HackerRank](https://img.shields.io/badge/HackerRank-%2320BE00.svg?style=for-the-badge&logo=HackerRank&logoColor=white)  
 
 ---
 
