@@ -60,7 +60,7 @@ I'm always open to connecting with like-minded professionals and enthusiasts. Re
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-**[HackerRank](https://www.hackerrank.com/profile/rashedcse18)** ![HackerRank](https://img.shields.io/badge/HackerRank-%2320BE00.svg?style=for-the-badge&logo=HackerRank&logoColor=white)  
+![HackerRank](https://www.hackerrank.com/profile/rashedcse18)(https://img.shields.io/badge/HackerRank-%2320BE00.svg?style=for-the-badge&logo=HackerRank&logoColor=white)  
 
 ---
 
