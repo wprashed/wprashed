@@ -63,6 +63,9 @@ I'm always open to connecting with like-minded professionals and enthusiasts. Re
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wprashedh)  
 [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/wprashedh)  
 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wprashed/) [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rashedcse18) [![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/wprashed) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wprashedh) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wprashedh) [![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/wprashedh)
+
 ---
 
 Thank you for stopping by! Feel free to explore my repositories and don’t hesitate to reach out if you'd like to collaborate or chat about tech, product development, or photography.
