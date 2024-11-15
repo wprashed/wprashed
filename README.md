@@ -18,7 +18,7 @@ With over 7 years of experience in the tech industry, I've honed my expertise ac
 - **Data Analysis**: Competitor analysis, user feedback integration, data-driven decision-making.
 - **Technical Support Leadership**: My experience managing tech support has enabled me to create efficient, user-centric support processes that build trust and satisfaction.
 
-Currently, I work as the **Lead of Tech Support at Ollyo**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS** **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, and customer feedback analysis, all aimed at delivering superior products.
+Currently, I work as the **Lead of Tech Support at Ollyo**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS**, **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, and customer feedback analysis, all aimed at delivering superior products.
 
 ### Personal Approach & Philosophy
 I believe in **user-centered design** and **continuous learning**. With every product and project, my goal is to solve real-world problems while keeping the user experience at the forefront. Data analysis is a key part of my workflow, as it allows me to make informed decisions and ensure each feature meets users’ needs.
