@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improvi
 
 ## 🚀 About Me
 
-With over 7 years of experience in the tech industry, I've honed my expertise across multiple domains:
+With over 6 years of experience in the tech industry, I've honed my expertise across multiple domains:
 - **WordPress Development**: Plugin and theme customization, eCommerce solutions, LMS platforms.
 - **Custom Solutions**: Developing enterprise-level web applications and QA testing to ensure optimal performance.
 - **Product Management**: Strategizing roadmaps, analyzing market needs, and ensuring user-focused product design and delivery.
