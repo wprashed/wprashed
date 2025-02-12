@@ -1,10 +1,10 @@
 # Hi there, I'm Rashed Hossain 👋
 
-**Lead, Tech Support at Ollyo** | WordPress Expert | Product & Project Manager | Data Analyst
+**Lead, Tech Support at Ollyo** | WordPress Expert | Product & Project Manager | Data Analyst | AI & Automation Enthusiast
 
 ---
 
-Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improving customer experiences through **innovative solutions**, **data-driven insights**, and **cutting-edge product development**. With a strong foundation in **WordPress**, **Product Management**, **Project Management,** and **Data Analysis** I continuously strive to create impactful tools that cater to user needs and streamline processes.
+Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improving customer experiences through **innovative solutions**, **data-driven insights**, and **cutting-edge product development**. With a strong foundation in **WordPress**, **Product Management**, **Project Management**, **Data Analysis**, and **AI & Automation**, I continuously strive to create impactful tools that cater to user needs and streamline processes.
 
 ---
 
@@ -13,12 +13,13 @@ Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improvi
 With over 6 years of experience in the tech industry, I've honed my expertise across multiple domains:
 - **WordPress Development**: Plugin and theme customization, eCommerce solutions, LMS platforms.
 - **Custom Solutions**: Developing enterprise-level web applications and QA testing to ensure optimal performance.
+- **AI & Automation**: Implementing machine learning models, AI-driven solutions, and automating complex processes to increase efficiency.
 - **Product Management**: Strategizing roadmaps, analyzing market needs, and ensuring user-focused product design and delivery.
 - **Project Management**: Planning and overseeing product roadmaps, using tools like Jira.
 - **Data Analysis**: Competitor analysis, user feedback integration, data-driven decision-making.
 - **Technical Support Leadership**: My experience managing tech support has enabled me to create efficient, user-centric support processes that build trust and satisfaction.
 
-Currently, I work as the **Lead of Tech Support at Ollyo**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS**, **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, and customer feedback analysis, all aimed at delivering superior products.
+Currently, I work as the **Lead of Tech Support at Ollyo**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS**, **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, AI integration, and customer feedback analysis, all aimed at delivering superior products.
 
 ### Personal Approach & Philosophy
 I believe in **user-centered design** and **continuous learning**. With every product and project, my goal is to solve real-world problems while keeping the user experience at the forefront. Data analysis is a key part of my workflow, as it allows me to make informed decisions and ensure each feature meets users’ needs.
@@ -43,6 +44,7 @@ I believe in **user-centered design** and **continuous learning**. With every pr
 ![Product Management](https://img.shields.io/badge/Product%20Management-%2333A0FF.svg?style=for-the-badge&logo=producthunt&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-%23FF9A00.svg?style=for-the-badge&logo=clickup&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%230075FF.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-%2300A9A6.svg?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 
