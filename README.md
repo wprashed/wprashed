@@ -1,50 +1,34 @@
 # Hi there, I'm Rashed Hossain 👋
 
-**Lead, Tech Support at Ollyo** | WordPress Expert | Product & Project Manager | Data Analyst | AI & Automation Enthusiast
+**Lead, Tech Support at Ollyo**  WordPress Expert | Technical Support | Customer Success | Leadership
 
 ---
 
-Welcome to my GitHub profile! I'm Rashed, a tech enthusiast dedicated to improving customer experiences through **innovative solutions**, **data-driven insights**, and **cutting-edge product development**. With a strong foundation in **WordPress**, **Product Management**, **Project Management**, **Data Analysis**, and **AI & Automation**, I continuously strive to create impactful tools that cater to user needs and streamline processes.
+Passionate about delivering top-notch technical support and ensuring seamless user experiences, I bring a strong foundation in WordPress development and a proven track record of diagnosing and resolving complex technical issues efficiently. My work is driven by a commitment to excellence, continuous learning, and a deep understanding of customer needs.
+
+Currently serving as the Tech Support Lead at Ollyo, I oversee a dynamic support team dedicated to ensuring product stability and user satisfaction. I take pride in leading with empathy and precision—implementing data-driven strategies, improving support processes, and building systems that scale with product growth.
+
+With hands-on experience across diverse WordPress ecosystems, I specialize in plugin and theme debugging, performance optimization, and translating technical challenges into clear, actionable solutions for both users and internal teams.
+
+In addition to product and platform expertise, I also bring strong knowledge of hosting environments, server configurations, and performance tuning. This includes working with cPanel, WHM, Apache, NGINX, PHP configurations, MySQL tuning, and DNS management, allowing me to solve deep server-side issues that impact WordPress functionality and user experience.
 
 ---
 
-## 🚀 About Me
+## Key Skills
 
-With over 7 years of experience in the tech industry, I've honed my expertise across multiple domains:
-- **WordPress Development**: Plugin and theme customization, eCommerce solutions, LMS platforms.
-- **Custom Solutions**: Developing enterprise-level web applications and QA testing to ensure optimal performance.
-- **AI & Automation**: Implementing machine learning models, AI-driven solutions, and automating complex processes to increase efficiency.
-- **Product Management**: Strategizing roadmaps, analyzing market needs, and ensuring user-focused product design and delivery.
-- **Project Management**: Planning and overseeing product roadmaps, using tools like Jira.
-- **Data Analysis**: Competitor analysis, user feedback integration, data-driven decision-making.
-- **Technical Support Leadership**: My experience managing tech support has enabled me to create efficient, user-centric support processes that build trust and satisfaction.
+- 1. WordPress Theme & Plugin Development
+- 2. Troubleshooting & Debugging Complex Issues
+- 3. Technical Support & Customer Success
+- 4. Hosting & Server Management (cPanel, WHM, Apache, NGINX, DNS, PHP, MySQL)
+- 5. Performance Optimization & Caching
+- 6.Team Leadership & Workflow Automation
+- 7. Knowledge Base & Documentation Management
+- 8. Data-Driven Process Improvement
 
 Currently, I work as the **Lead of Tech Support at Ollyo**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS**, **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, AI integration, and customer feedback analysis, all aimed at delivering superior products.
 
-### Personal Approach & Philosophy
-I believe in **user-centered design** and **continuous learning**. With every product and project, my goal is to solve real-world problems while keeping the user experience at the forefront. Data analysis is a key part of my workflow, as it allows me to make informed decisions and ensure each feature meets users’ needs.
-
----
-
-## 💼 Professional Skills
-
-### 🛠️ Technical Skills
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 🎯 Professional Expertise
-![Technical Support Leadership](https://img.shields.io/badge/Technical%20Support-%230070C0.svg?style=for-the-badge&logo=support&logoColor=white)
-![WordPress Development](https://img.shields.io/badge/WordPress%20Development-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Product Management](https://img.shields.io/badge/Product%20Management-%2333A0FF.svg?style=for-the-badge&logo=producthunt&logoColor=white)
-![Project Management](https://img.shields.io/badge/Project%20Management-%23FF9A00.svg?style=for-the-badge&logo=clickup&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%230075FF.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![AI & Automation](https://img.shields.io/badge/AI%20%26%20Automation-%2300A9A6.svg?style=for-the-badge&logo=ai&logoColor=white)
+## Tools & Tech:
+PHP, MySQL, JavaScript, Git, SSH, cPanel/WHM, Cloudflare, LiteSpeed, NGINX, Jira, Help Scout, Intercom, Slack, Figma.
 
 ---
 
