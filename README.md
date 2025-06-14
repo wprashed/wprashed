@@ -16,14 +16,14 @@ In addition to product and platform expertise, I also bring strong knowledge of 
 
 ## Key Skills
 
-- 1. WordPress Theme & Plugin Development
-- 2. Troubleshooting & Debugging Complex Issues
-- 3. Technical Support & Customer Success
-- 4. Hosting & Server Management (cPanel, WHM, Apache, NGINX, DNS, PHP, MySQL)
-- 5. Performance Optimization & Caching
-- 6.Team Leadership & Workflow Automation
-- 7. Knowledge Base & Documentation Management
-- 8. Data-Driven Process Improvement
+- WordPress Theme & Plugin Development
+- Troubleshooting & Debugging Complex Issues
+- Technical Support & Customer Success
+- Hosting & Server Management (cPanel, WHM, Apache, NGINX, DNS, PHP, MySQL)
+- Performance Optimization & Caching
+- Team Leadership & Workflow Automation
+- Knowledge Base & Documentation Management
+- Data-Driven Process Improvement
 
 Currently, I work as the **Lead of Tech Support at Ollyo**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS**, **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, AI integration, and customer feedback analysis, all aimed at delivering superior products.
 
