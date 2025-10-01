@@ -1,40 +1,39 @@
 # Hi there, I'm Rashed Hossain 👋
 
-**Lead, Tech Support at Ollyo**  WordPress Expert | Technical Support | Customer Success | Leadership
+**Lead, Tech Support & Product Manager at Ollyo** | WordPress Expert | Product Strategy | Technical Support | Customer Success
 
 ---
 
-Passionate about delivering top-notch technical support and ensuring seamless user experiences, I bring a strong foundation in WordPress development and a proven track record of diagnosing and resolving complex technical issues efficiently. My work is driven by a commitment to excellence, continuous learning, and a deep understanding of customer needs.
+I’m a **Product Manager and Technical Support Lead** with 6+ years of experience managing **WordPress-based products** like **Tutor LMS, Droip, and WP Crowdfunding**. I combine **product strategy, user feedback analysis, and hands-on technical expertise** to deliver products that solve real customer problems while ensuring smooth, scalable support operations.
 
-Currently serving as the Tech Support Lead at Ollyo, I oversee a dynamic support team dedicated to ensuring product stability and user satisfaction. I take pride in leading with empathy and precision—implementing data-driven strategies, improving support processes, and building systems that scale with product growth.
+Currently at Ollyo, I lead a dynamic support team while also **managing product roadmaps, prioritizing features, and coordinating releases**. I focus on turning user feedback and support data into actionable improvements, bridging the gap between **customer needs, technical feasibility, and product growth**.
 
-With hands-on experience across diverse WordPress ecosystems, I specialize in plugin and theme debugging, performance optimization, and translating technical challenges into clear, actionable solutions for both users and internal teams.
-
-In addition to product and platform expertise, I also bring strong knowledge of hosting environments, server configurations, and performance tuning. This includes working with cPanel, WHM, Apache, NGINX, PHP configurations, MySQL tuning, and DNS management, allowing me to solve deep server-side issues that impact WordPress functionality and user experience.
+I specialize in **plugin/theme debugging, performance optimization, and end-to-end product problem solving**, alongside strong knowledge of **hosting/server management** including cPanel, WHM, Apache, NGINX, PHP, MySQL, and DNS.
 
 ---
 
 ## Key Skills
 
-- WordPress Theme & Plugin Development
-- Troubleshooting & Debugging Complex Issues
-- Technical Support & Customer Success
-- Hosting & Server Management (cPanel, WHM, Apache, NGINX, DNS, PHP, MySQL)
-- Performance Optimization & Caching
-- Team Leadership & Workflow Automation
-- Knowledge Base & Documentation Management
-- Data-Driven Process Improvement
+* Product Management & Roadmapping
+* Technical Support Leadership & Customer Success
+* WordPress Plugin & Theme Development
+* Troubleshooting & Debugging Complex Issues
+* Hosting & Server Management (cPanel, WHM, Apache, NGINX, DNS, PHP, MySQL)
+* Workflow Automation & Process Improvement
+* Data-Driven Decision Making
+* Team Mentoring & Knowledge Base Management
 
-Currently, I work as the **Lead of Tech Support at Ollyo**, where I’m responsible for supporting and enhancing WordPress-based products, including **Tutor LMS**, **Droip** and **WP Crowdfunding**. My role involves a mix of project management, technical support, AI integration, and customer feedback analysis, all aimed at delivering superior products.
+---
 
-## Tools & Tech:
-PHP, MySQL, JavaScript, Git, SSH, cPanel/WHM, Cloudflare, LiteSpeed, NGINX, Jira, Help Scout, Intercom, Slack, Figma.
+## Tools & Tech
+
+PHP, MySQL, JavaScript, Git, SSH, cPanel/WHM, Cloudflare, LiteSpeed, NGINX, Jira, Help Scout, Intercom, Slack, Figma
 
 ---
 
 ## 🌍 Beyond Tech
 
-Outside of work, I'm a photography enthusiast who loves capturing moments. I’m also an avid traveler, always seeking new experiences and perspectives. My travel and photography interests inspire my creativity and problem-solving skills in the tech world.
+Outside of work, I’m a **photography and travel enthusiast**, always seeking new perspectives. My experiences inspire creativity, problem-solving, and innovative thinking in the tech and product space.
 
 ---
 
