@@ -1,6 +1,6 @@
 # Hi there, I'm Rashed Hossain 👋
 
-**Lead, Tech Support & Product Manager at Ollyo** | WordPress Expert | Product Strategy | Technical Support | Customer Success
+**Lead, Tech Support at Ollyo** | WordPress Expert | Product Strategy | Technical Support | Customer Success
 
 ---
 
