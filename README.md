@@ -4,7 +4,7 @@
 
 ---
 
-I’m a **Product Manager and Technical Support Lead** with 6+ years of experience managing **WordPress-based products** like **Tutor LMS, Droip, and WP Crowdfunding**. I combine **product strategy, user feedback analysis, and hands-on technical expertise** to deliver products that solve real customer problems while ensuring smooth, scalable support operations.
+I’m a **Product Manager and Technical Support Lead** with 7+ years of experience managing **WordPress-based products** like **Tutor LMS, Droip, and WP Crowdfunding**. I combine **product strategy, user feedback analysis, and hands-on technical expertise** to deliver products that solve real customer problems while ensuring smooth, scalable support operations.
 
 Currently at Ollyo, I lead a dynamic support team while also **managing product roadmaps, prioritizing features, and coordinating releases**. I focus on turning user feedback and support data into actionable improvements, bridging the gap between **customer needs, technical feasibility, and product growth**.
 
