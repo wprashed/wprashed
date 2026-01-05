@@ -1,20 +1,28 @@
 # Hi there, I'm Rashed Hossain 👋
 
-**Lead, Tech Support at Ollyo** | WordPress Expert | Product Strategy | Technical Support | Customer Success
+**Lead, Tech Support at Ollyo** | WordPress Expert | Technical Support | Customer Success
 
 ---
 
-I’m a **Product Manager and Technical Support Lead** with 10+ years of experience managing **WordPress-based products** like **Tutor LMS, Droip, and WP Crowdfunding**. I combine **product strategy, user feedback analysis, and hands-on technical expertise** to deliver products that solve real customer problems while ensuring smooth, scalable support operations.
+I’ve been building with WordPress since 2014, and it’s been one amazing ride. What started as a simple experiment turned into a full-on obsession — and eventually, my career.
 
-Currently at Ollyo, I lead a dynamic support team while also **managing product roadmaps, prioritizing features, and coordinating releases**. I focus on turning user feedback and support data into actionable improvements, bridging the gap between **customer needs, technical feasibility, and product growth**.
+Over the years, I’ve launched 560+ websites, crafted custom themes and plugins, and learned something new from every project. Some of those creations made their way to WordPress.org, Envato, and TemplateMonster, which still feels surreal.
 
-I specialize in **plugin/theme debugging, performance optimization, and end-to-end product problem solving**, alongside strong knowledge of **hosting/server management** including cPanel, WHM, Apache, NGINX, PHP, MySQL, and DNS.
+What I’m most proud of, though, is giving back to the community that helped shape me. Contributing to core, translating strings, sharing solutions, speaking at WordCamps — it all adds up. And the badges I’ve earned along the way are little reminders of that journey:
+
+1. Core Contributor
+2. Photo Contributor
+3. Plugin Developer
+4. Translation Contributor
+5. Translation Editor
+6. WordCamp Speaker
+
+Short story? WordPress changed my life — and I’m nowhere near done building.
 
 ---
 
 ## Key Skills
 
-* Product Management & Roadmapping
 * Technical Support Leadership & Customer Success
 * WordPress Plugin & Theme Development
 * Troubleshooting & Debugging Complex Issues
