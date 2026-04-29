@@ -6,7 +6,7 @@
 
 I’ve been building with WordPress since 2014, and it’s been one amazing ride. What started as a simple experiment turned into a full-on obsession — and eventually, my career.
 
-Over the years, I’ve launched 560+ websites, crafted custom themes and plugins, and learned something new from every project. Some of those creations made their way to WordPress.org, Envato, and TemplateMonster, which still feels surreal.
+Over the years, I’ve launched 567 websites, crafted custom themes and plugins, and learned something new from every project. Some of those creations made their way to WordPress.org, Envato, and TemplateMonster, which still feels surreal.
 
 What I’m most proud of, though, is giving back to the community that helped shape me. Contributing to core, translating strings, sharing solutions, speaking at WordCamps — it all adds up. And the badges I’ve earned along the way are little reminders of that journey:
 
