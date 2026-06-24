@@ -49,7 +49,7 @@ Outside of work, I’m a **photography and travel enthusiast**, always seeking n
 
 I'm always open to connecting with like-minded professionals and enthusiasts. Reach out through any of the channels below:
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rashed.im/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wprashed/) [![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/wprashed) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wprashedh) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wprashedh)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rashed.im/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/wprashedh/](https://www.linkedin.com/in/wprashedh/)) [![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://g.dev/wprashed) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/wprashedh) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wprashedh)
 
 ---
 
