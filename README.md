@@ -96,7 +96,6 @@ A few projects I've built and worked on:
 - **[FaceSpotter](https://github.com/wprashed/facespotter-suite):** An AI-powered biometric vision platform for facial recognition, attendance management, and intelligent workplace analytics.
 - **[GitHub PR Repair Agent](https://github.com/wprashed/github-pr-repair-agent):** An AI-powered agent designed to analyze and help repair GitHub pull requests.
 - **[BankCompare](https://github.com/wprashed/bankcompare):** A platform for comparing banking products and financial services.
-- **[WPops](https://rashed.im/):** Exploring AI-powered workflows for managing, optimizing, and improving WordPress websites.
 
 ## Writing & Knowledge Sharing
 
